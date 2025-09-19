@@ -1,0 +1,5 @@
+{
+  "name": "Vibecoder",
+  "description": "An AI-powered coding quest generator to help you learn new languages and frameworks with a vibe. Choose your stack, set your goal, and let the AI create personalized tasks for you.",
+  "requestFramePermissions": []
+}
